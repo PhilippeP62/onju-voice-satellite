@@ -8,7 +8,6 @@ external_components:
       url: https://github.com/philippep62/home-assistant-voice-pe
       ref: dev
     components:
-      - media_player
       - microphone
       - nabu
       - nabu_microphone
