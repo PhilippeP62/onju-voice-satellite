@@ -9,7 +9,6 @@ external_components:
       ref: dev
     components:
       - microphone
-      - nabu
       - nabu_microphone
 i2s_audio:
   - id: i2s_output
