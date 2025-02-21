@@ -1,4 +1,4 @@
-packages:
+kerpackages:
   onju_microphone: !include microphone.yaml
   onju_media_player: !include media_player.yaml
 
@@ -58,7 +58,7 @@ microphone:
 
 media_player:
   - id: !extend onju_out
-    platform: nabu
+    platform: speaker
     speaker:
     sample_rate: 16000
     volume_increment: 0.05
