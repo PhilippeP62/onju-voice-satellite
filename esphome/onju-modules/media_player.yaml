@@ -1,7 +1,7 @@
 substitutions:
-  wakeup_sound_url: "https://github.com/tetele/onju-voice-satellite/raw/main/res/wakeup.mp3" # New Notification #7 by UNIVERSFIELD https://freesound.org/people/UNIVERSFIELD/sounds/736267/
-  error_sound_url: "https://github.com/tetele/onju-voice-satellite/raw/main/res/error.mp3" # Error #8 by UNIVERSFIELD https://freesound.org/people/UNIVERSFIELD/sounds/734442/
-  timer_finished_sound_url: "https://github.com/tetele/onju-voice-satellite/raw/main/res/timer_finished.mp3" # New Notification #6 by UNIVERSFIELD https://freesound.org/people/UNIVERSFIELD/sounds/734445/
+  wakeup_sound_url: "https://github.com/philippep62/onju-voice-satellite/raw/main/res/wakeup.mp3" # New Notification #7 by UNIVERSFIELD https://freesound.org/people/UNIVERSFIELD/sounds/736267/
+  error_sound_url: "https://github.com/philippep62/onju-voice-satellite/raw/main/res/error.mp3" # Error #8 by UNIVERSFIELD https://freesound.org/people/UNIVERSFIELD/sounds/734442/
+  timer_finished_sound_url: "https://github.com/philippep62/onju-voice-satellite/raw/main/res/timer_finished.mp3" # New Notification #6 by UNIVERSFIELD https://freesound.org/people/UNIVERSFIELD/sounds/734445/
 
 media_player:
   - id: onju_out
