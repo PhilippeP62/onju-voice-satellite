@@ -29,6 +29,7 @@ i2s_audio:
 
 speaker:
   - platform: i2s_audio
+    id: announce_spk_id
     sample_rate: 16000
     i2s_mode: primary
     i2s_dout_pin: GPIO12
