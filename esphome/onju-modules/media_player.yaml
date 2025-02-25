@@ -5,6 +5,11 @@ substitutions:
 
 media_player:
   - id: onju_out
+    platform: speaker
+    num_channels: 1
+    announcement_pipeline: 
+      speaker: announce_spk_id
+      format: MP3
     name: None
     on_state:
       then:
