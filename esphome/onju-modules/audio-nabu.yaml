@@ -1,4 +1,4 @@
-kerpackages:
+packages:
   onju_microphone: !include microphone.yaml
   onju_media_player: !include media_player.yaml
 
