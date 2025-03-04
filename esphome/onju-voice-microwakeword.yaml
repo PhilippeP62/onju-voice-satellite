@@ -435,7 +435,7 @@ light:
     pin: GPIO11
     chipset: SK6812
     num_leds: 6
-    rgb_order: grb
+    rgb_order: GRB
     rmt_channel: 0
     default_transition_length: 0s
     gamma_correct: 2.8
