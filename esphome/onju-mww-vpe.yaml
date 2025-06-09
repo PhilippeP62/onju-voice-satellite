@@ -18,8 +18,8 @@ substitutions:
   hidden_ssid: "false"
 
 esphome:
-  name: smart-speaker
-  friendly_name: Smart Speaker
+  name: onju_vpe
+  friendly_name: Onju VPE
   # name_add_mac_suffix: true
   min_version: 2025.2.0
   platformio_options:
