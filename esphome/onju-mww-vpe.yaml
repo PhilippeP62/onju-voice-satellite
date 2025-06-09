@@ -456,7 +456,7 @@ binary_sensor:
     id: hardware_mute_switch
     internal: true
     pin: 
-      number: GPIO20
+      number: GPIO38
       inverted: True
       mode:
         input: true
